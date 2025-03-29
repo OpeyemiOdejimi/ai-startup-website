@@ -1,8 +1,8 @@
-# AI StartUp Project
+# AI StartUp Project (Git Mini Project)
 
 This project takes learners through the rudiments and importance of **Version Control** and **Version Control Systems** in Software Development. The Project involves two members; Tom and Jerry that make changes to the homepage of a website simultaneously without overwriting each other's work with the help of **Git**
 
-# Conceptualizing Git Set Up with Tom and Jerry
+## Conceptualizing Git Set Up with Tom and Jerry
 
 * The first image shows the GitHub User Dashboard
 ![Github User Dashboard](Images/github-user-dashboard.png)
@@ -20,6 +20,6 @@ This project takes learners through the rudiments and importance of **Version Co
 ![Jerry merging branch](Images/jerry-merge-request.png)
 ![Jerry adding contact info](Images/jerry-add-contactinfo.png)
 
-# Conclusion
+## Conclusion
 
 Through this project learners were able to grasp the concept of version control and version control systems. This project demonstrates how Tom and Jerry were able to work on the same file simultaneously without overwriting each other's work. Git tracked their changes, allowing them to merge their updates seamlessly into the main project. This example illustrates the power of using a Version Control System like Git for collaborative ddevelopment.
