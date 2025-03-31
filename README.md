@@ -20,6 +20,10 @@ This project takes learners through the rudiments and importance of **Version Co
 ![Jerry merging branch](Images/jerry-merge-request.png)
 ![Jerry adding contact info](Images/jerry-add-contactinfo.png)
 
+## The link to the index.html file
+
+* **__https://github.com/OpeyemiOdejimi/ai-startup-website/blob/main/index.html__**
+
 ## Conclusion
 
 Through this project learners were able to grasp the concept of version control and version control systems. This project demonstrates how Tom and Jerry were able to work on the same file simultaneously without overwriting each other's work. Git tracked their changes, allowing them to merge their updates seamlessly into the main project. This example illustrates the power of using a Version Control System like Git for collaborative ddevelopment.
