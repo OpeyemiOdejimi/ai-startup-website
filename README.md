@@ -10,10 +10,16 @@ This project takes learners through the rudiments and importance of **Version Co
 * The second image shows the cloning of the repo using git clone command
 ![it clone screenshot](Images/git-clone-repo.png)
 
-* The third image shows Tom working from the **__update-navigation__** branch he created.
+* The third image shows Tom switching from the *__main__* branch to the *__update-navigation__* branch
+![Tom switching to the update-navigation branch](Images/branch-update-navigation.png)
+
+* The fourth image shows Tom working from the *__update-navigation__* branch he created.
 ![Tom working from his branch](Images/git-pull-request.png)
 
-* The next image shows Jerry working from the **__add-contact-information__** branch he created
+* The fifth image shows Jerry switching from the *__main__* branch to the *__add-contact-information__* branch.
+![Jerry switching to the add-contact-information branch](Images/branch-add-contact-information.png)
+
+* The next image shows Jerry working from the *__add-contact-information__* branch he created
 ![Jerry working from his branch](Images/git-pull-request.png)
 
 * The next set of images displays the merging of pull requests to the main branch.
