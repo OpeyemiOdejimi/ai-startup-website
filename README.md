@@ -45,15 +45,25 @@ This project takes learners through the rudiments and importance of **Version Co
 The following git commands were used during the project. These commands were useful as they helped in proper collaboration between Tom and Jerry.
 
 ``git branch``
+
 ``git checkout -b update-navigation``
+
 ``git checkout -b add-contact-info``
+
 ``git checkout update-navigation``
+
 ``git add index.html``
+
 ``git commit -m "commit message"``
+
 ``git push origin main``
+
 ``git push origin update-navigation``
+
 ``git push origin add-contact-info``
+
 ``git pull origin main``
+
 
 ## Conclusion
 
