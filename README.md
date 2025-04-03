@@ -16,19 +16,44 @@ This project takes learners through the rudiments and importance of **Version Co
 * The fourth image shows Tom working from the *__update-navigation__* branch he created.
 ![Tom working from his branch](Images/git-pull-request.png)
 
-* The fifth image shows Jerry switching from the *__main__* branch to the *__add-contact-information__* branch.
-![Jerry switching to the add-contact-information branch](Images/branch-add-contact-information.png)
+* The fifth image shows Tom creating a pull request
+![Tom's pull request](Images/tom-create-PR.png)
 
-* The next image shows Jerry working from the *__add-contact-information__* branch he created
+* The sixth image shows merging Tom's pull request
+![Merging Tom's request](Images/tom-merge-PR.png)
+
+* The seventh image shows Jerry switching from the *__main__* branch to the *__add-contact-information__* branch.
+![Jerry switching to the add-contact-information branch](Images/switch-jerry-branch.png)
+
+* The eighth image shows Jerry pulling changes from the main branch
+![Jerry pulling changes from the main branch](Images/pull-to-jerry-branch.png)
+
+
+* The ninth image shows Jerry working from the *__add-contact-information__* branch he created
 ![Jerry working from his branch](Images/git-pull-request.png)
 
-* The next set of images displays the merging of pull requests to the main branch.
-![Jerry merging branch](Images/jerry-merge-request.png)
-![Jerry adding contact info](Images/jerry-add-contactinfo.png)
+* The tenth image shows Jerry creating a pull request.
+![Jerry create pull request]()
+
 
 ## The link to the index.html file
 
 * **__https://github.com/OpeyemiOdejimi/ai-startup-website/blob/main/index.html__**
+
+## The git commands used
+
+The following git commands were used during the project. These commands were useful as they helped in proper collaboration between Tom and Jerry.
+
+``git branch``
+``git checkout -b update-navigation``
+``git checkout -b add-contact-info``
+``git checkout update-navigation``
+``git add index.html``
+``git commit -m "commit message"``
+``git push origin main``
+``git push origin update-navigation``
+``git push origin add-contact-info``
+``git pull origin main``
 
 ## Conclusion
 
